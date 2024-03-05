@@ -1,6 +1,11 @@
-/* add css to the theme for light/dark 
+/* add css to the theme for light/dark */
   
  
-  
+  .blogCard{
+    height: 150px;
+    width: 60%;
+    border: 2px solid black;
+    margin: 10px;
+  }
   
   
