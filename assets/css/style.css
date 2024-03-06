@@ -1,6 +1,6 @@
 /* add css to the theme for light/dark */
-  * {
-    
+  .bg-dark-text-light{
+    color: white;
   }
  
   .blogCard{
