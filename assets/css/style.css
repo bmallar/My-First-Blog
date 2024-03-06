@@ -1,5 +1,7 @@
 /* add css to the theme for light/dark */
-  
+  * {
+    
+  }
  
   .blogCard{
     height: 150px;
