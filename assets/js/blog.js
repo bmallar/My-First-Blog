@@ -1,8 +1,8 @@
-// grabbed this dark/light theme from inst. activity 3 in third party api's
+
 const themeButtonEl = $('#theme-btn');
 const blogForm = document.getElementById('blog-form');
 let isDark = true;
-
+// grabbed this dark/light theme from inst. activity 3 in third party api's
 themeButtonEl.on('click', function () {
     if (isDark) {
         $('body').css({ 'background-color': '#d9e9e8', color: '#1a1a1a' });

@@ -1,5 +1,5 @@
-const back = document
-const back = 
+const back = document.querySelector('.prev');
+
 
 // Clicking previous displays previous image in carousel
 back.addEventListener('click', function (event) {
