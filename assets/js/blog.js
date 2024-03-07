@@ -31,5 +31,6 @@ blogForm.addEventListener('submit', function (event) {
 
     postArray.push(blogObject)
     localStorage.setItem('postlist', JSON.stringify(postArray))
-    console.log(blogObject)
+    window.location.href="./blog.html"
 })
+
