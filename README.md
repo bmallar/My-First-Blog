@@ -74,7 +74,7 @@ Then we set up the consts with creating the element h4 so they display like that
 
 Lastly we run the function
 
-
+[visit my page here](https://bmallar.github.io/My-First-Blog/)
 
 ![My Project](<assets/Screenshot (11).png>)
 
